@@ -1,0 +1,9 @@
+/*Important topic notes-
+
+
+intput in java:-   Scanner objectName = new Scanner(System.in);
+Var Variable_Name = objectName.next();   
+
+/// ".next" function use for take only one word from given string.
+/// ".nextLine" function use for take complete string of given string.
+/// ".nextInt" function use for take Int input.
